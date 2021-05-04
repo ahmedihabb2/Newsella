@@ -1,5 +1,5 @@
 # Newsella 
-A news application template ... ready to receive the data from API using Flutter
+A news application template using Flutter... ready to receive the data from API 
 
 ## Intro Screens
 
