@@ -19,3 +19,18 @@ A news application template ... ready to receive the data from API using Flutter
   <img src="Screenshots/feed4.png" width="300" />
   <img src="Screenshots/feed5.png" width="300" /> 
 </p>
+
+
+## Drawer
+
+<p float="left">
+  <img src="Screenshots/menu.png" width="300" />
+ 
+</p>
+
+## Twitter Feed
+
+<p float="left">
+  <img src="Screenshots/feed6.png" width="300" />
+</p>
+
